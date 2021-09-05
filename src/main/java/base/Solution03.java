@@ -10,10 +10,10 @@ import java.util.Scanner;
 public class Solution03 {
     /*
     print "What is the quote?"
-    'quote' = string input from user
+    'quote' = read string from user
 
     print "Who said it?"
-    'name' = string input from user
+    'name' = read string from user
 
     print "'name' says 'quote'"
      */
